@@ -6,4 +6,4 @@
 ![binu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eske4&show_icons=true&include_all_commits=true&count_private=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bin0o&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eske4&layout=compact&langs_count=8)
