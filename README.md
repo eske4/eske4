@@ -1,5 +1,5 @@
 # Eske Klintø
-## I'm a student at Aalborg University and work part-time at a startup that specializes in skin analysis.
+## I'm a computer science student at Aalborg University and work part-time at a startup that specializes in skin analysis.
 
 
 
