@@ -10,6 +10,16 @@ Welcome to my workspace. I am a software engineer with a background in interacti
 
 ---
 
+## 💼 Professional Experience
+
+### Software Engineer | Skinchange AI
+
+- **Tech Stack:** Dart, Python, JavaScript, TensorFlow, Flutter, Docker, Google Services.
+- Contributed to the development of a dermatologist platform and tools for API development, TOTP, and backend infrastructure.
+- Collaborated on medical data management, integration with external companies and vendors, and AI model implementation.
+
+---
+
 ## 💻 Tech Stack
 * **Languages:** C, C++, C#, Python, Assembly (x86_64), Dart, JavaScript, HTML/CSS.
 * **Systems & Low-Level:** Linux Kernel, eBPF, LSM Hooks, CGroups, Embedded Systems, NASM.
