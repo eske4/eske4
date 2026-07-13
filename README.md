@@ -6,7 +6,7 @@ Welcome to my workspace. I am a software engineer with a background in interacti
 
 ## 🛠 Project Index
 
-* **[University Projects](University/)**: A curated collection of my academic work, ranging from kernel-level anti-cheat development to compiler design and distributed systems.
+* **[University Projects](University/)**: A collection of my academic work, ranging from kernel-level anti-cheat development to compiler design and distributed systems.
 
 ---
 
