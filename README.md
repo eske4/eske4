@@ -11,8 +11,11 @@ Welcome to my workspace. I am a software engineer with a background in interacti
 ---
 
 ## 💻 Tech Stack
-* **Languages:** C, C++, C#, Python, Assembly, Dart.
-* **Systems:** Linux Kernel, eBPF, Embedded Systems.
-* **Tools:** Docker, TensorFlow, GTest, Unity, Unreal, Flutter.
+* **Languages:** C, C++, C#, Python, Assembly (x86_64), Dart, JavaScript, HTML/CSS.
+* **Systems & Low-Level:** Linux Kernel, eBPF, LSM Hooks, CGroups, Embedded Systems, NASM.
+* **Databases:** PostgreSQL, Firebase.
+* **Frameworks & Libraries:** Flutter, libbpf, GTest, TensorFlow/PyTorch.
+* **Tools:** Docker, Git, CMake, GNU Make, LLVM/Clang.
+* **Game Development:** Unity, Unreal Engine 5.
 
 *For any inquiries or technical discussions, feel free to reach out via [email](mailto:eskeklarsen@gmail.com).*
