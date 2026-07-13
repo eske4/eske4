@@ -1,6 +1,6 @@
 # Eske Klintø
 
-Welcome to my workspace. I focus on low-level systems development, kernel-level architecture, and high-performance computing. I use this space to showcase my work across my graduate and undergraduate studies, as well as my current independent technical initiatives.
+Welcome to my workspace. I am a software engineer with a background in interaction design and computer science. This repository houses my academic projects and independent technical initiatives.
 
 ---
 
