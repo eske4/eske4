@@ -1,8 +1,6 @@
 # Eske Klintø
 
-Welcome to my project workspace. I am a Systems Engineer with a deep interest in low-level development, kernel-level architecture, and high-performance systems.
-
-This repository serves as a central hub for my technical projects, documenting my work across my graduate and undergraduate studies as well as independent initiatives.
+Welcome to my workspace. I focus on low-level systems development, kernel-level architecture, and high-performance computing. I use this space to showcase my work across my graduate and undergraduate studies, as well as my current independent technical initiatives.
 
 ---
 
