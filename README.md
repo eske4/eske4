@@ -12,7 +12,7 @@ Welcome to my workspace. I am a software engineer with a background in interacti
 
 ## 💼 Professional Experience
 
-### Software Engineer | Skinchange.AI (Startup)
+### Software Engineer | Skinchange.AI (Startup) | 2023-2024
 
 - **Tech Stack:** Dart, Python, JavaScript, TensorFlow, Flutter, Docker, Google Services.
 - Contributed to the development of a dermatologist platform and tools for API development, TOTP, and backend infrastructure.
