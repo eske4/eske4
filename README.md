@@ -24,7 +24,7 @@ Welcome to my workspace. I am a software engineer with a background in interacti
 * **Languages:** C, C++, C#, Python, Assembly (x86_64), Dart, JavaScript, HTML/CSS.
 * **Systems & Low-Level:** Linux Kernel, eBPF, LSM Hooks, CGroups, Embedded Systems, NASM.
 * **Databases:** PostgreSQL, Firebase.
-* **Frameworks & Libraries:** Flutter, libbpf, GTest, TensorFlow/PyTorch.
+* **Frameworks & Libraries:** Flutter, libbpf, GTest, TensorFlow.
 * **Tools:** Docker, Git, CMake, GNU Make, LLVM/Clang.
 * **Game Development:** Unity, Unreal Engine 5.
 
