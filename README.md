@@ -12,11 +12,12 @@ Welcome to my workspace. I am a software engineer with a background in interacti
 
 ## 💼 Professional Experience
 
-### Software Engineer | Skinchange.AI (Startup) | 2023-2024
+### Software Engineer | Skinchange.AI (Startup) | 2023–2024
 
-- **Tech Stack:** Dart, Python, JavaScript, TensorFlow, Flutter, Docker, Google Services.
-- Contributed to the development of a dermatologist platform and tools for API development, TOTP, and backend infrastructure.
-- Collaborated on medical data management, integration with external companies and vendors, and AI model integration.
+- **Tech Stack:** Flutter, Dart, Python, JavaScript, TensorFlow, Docker, Firebase, Google Cloud Services.
+- **Platform Architecture:** Engineered a full-stack clinical diagnostic platform supporting AI-driven skin analysis, end-to-end clinical review workflows, and medical receipt management.
+- **Security & AI Integration:** Integrated machine learning models via TensorFlow, containerized services using Docker, and implemented robust authentication including TOTP 2FA.
+- **Vendor Collaboration:** Designed APIs and data pipelines to safely manage sensitive medical data and coordinate integrations with external vendors.
 
 ---
 
