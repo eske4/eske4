@@ -1,12 +1,11 @@
 # Eske Klintø
 
-Welcome to my workspace. I am a software engineer with a background in interaction design and computer science. This repository houses my academic projects and independent projects.
+Welcome to my workspace. I am a software engineer with a background in interaction design and computer science. This repository highlights my academic projects and independent projects.
 
 ---
-
 ## 🛠 Project Index
 
-* **[University Projects](University/)**: A collection of my academic work, ranging from kernel-level anti-cheat development to compiler design and distributed systems.
+* **[University Projects](University/)**: A collection of my academic projects within computer science and interaction design including papers, appendix and repository links.
 
 ---
 
