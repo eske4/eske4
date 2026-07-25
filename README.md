@@ -1,6 +1,6 @@
 # Eske Klintø
 
-Welcome to my workspace. I am a software engineer with a background in interaction design and computer science. This repository houses my academic projects and independent technical initiatives.
+Welcome to my workspace. I am a software engineer with a background in interaction design and computer science. This repository houses my academic projects and independent projects.
 
 ---
 
