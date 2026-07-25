@@ -1,6 +1,6 @@
 # University Academic Portfolio
 
-Welcome to my academic project archive. This repository serves as a hub for my B.Sc. and M.Sc. studies, consolidating documentation and research related to my degree programs.
+Welcome to my academic project archive. This section serves as a hub for my B.Sc. and M.Sc. studies, consolidating documentation and research related to my degree programs.
 
 ---
 
